@@ -36,4 +36,4 @@ Marketing campaigns should target women aged 30–49 living in Maharashtra, Karn
 21 columns of sales and customer data
 
 ## Dashboard Preview
-![Dashboard](dashboard-preview.png)
+![Dashboard](dashboard-preview)
